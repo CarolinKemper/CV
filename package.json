@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SteveBlum/cv-orbit.git"
+    "url": "git+hcarolinkemper.github.io/cv.git"
   },
-  "author": "Steve Blum",
+  "author": "Carolin Kemper",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SteveBlum/cv-orbit/issues"
+    "url": "carolinkemper.github.io/cv/issues"
   },
-  "homepage": "https://github.com/SteveBlum/cv-orbit#readme",
+  "homepage": "carolinkemper.github.io/cv#readme",
   "devDependencies": {
     "sass": "^1.91.0"
   }
